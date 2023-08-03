@@ -1,5 +1,5 @@
 .env
-dags/*
 logs/*
 plugins/*
 config/*
+/dags/__pycache__
